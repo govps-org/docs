@@ -20,27 +20,27 @@ module.exports = {
       ['link', {
           rel: 'apple-touch-icon',
           sizes: '180x180',
-          href: 'https://govps.org/apple-touch-icon.png',
+          href: 'https://govps.org/assets/image/seo/apple-touch-icon.png',
       }],
       ['link', {
           rel: 'icon',
           sizes: '16x16',
           type: 'image/png',
-          href: 'https://govps.org/favicon-16x16.png',
+          href: 'https://govps.org/assets/image/seo/favicon-16x16.png',
       }],
       ['link', {
           rel: 'icon',
           sizes: '32x32',
           type: 'image/png',
-          href: 'https://govps.org/favicon-32x32.png',
+          href: 'https://govps.org/assets/image/seo/favicon-32x32.png',
       }],
       ['link', {
           rel: 'manifest',
-          href: 'https://govps.org/site.webmanifest',
+          href: 'https://govps.org/assets/image/seo/site.webmanifest',
       }],
       ['link', {
           rel: 'mask-icon',
-          href: 'https://govps.org/safari-pinned-tab.svg',
+          href: 'https://govps.org/assets/image/seo/safari-pinned-tab.svg',
       }],
       ['meta', {
           name: 'msapplication-TileColor',
@@ -48,7 +48,7 @@ module.exports = {
       }],
       ['meta', {
           name: 'msapplication-TileImage',
-          content: 'govps.org/mstile-144x144.png',
+          content: 'https://govps.org/mstile-144x144.png',
       }],
       ['meta', {
           name: 'theme-color',
