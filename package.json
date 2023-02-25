@@ -1,0 +1,19 @@
+{
+  "name": "govps-doc",
+  "version": "0.0.1",
+  "description": "govps-docs",
+  "main": "index.js",
+  "authors": {
+    "name": "DatPT",
+    "email": "phamtiendat160396@gmail.com"
+  },
+  "repository": "https://github.com/govps-org/docs/govps-doc",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
