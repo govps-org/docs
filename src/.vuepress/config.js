@@ -26,13 +26,13 @@ module.exports = {
           rel: 'icon',
           sizes: '16x16',
           type: 'image/png',
-          href: 'https://govps.org/assets/image/seo/favicon-16x16.png',
+          href: 'https://govps.org/assets/image/favicon-16x16.png',
       }],
       ['link', {
           rel: 'icon',
           sizes: '32x32',
           type: 'image/png',
-          href: 'https://govps.org/assets/image/seo/favicon-32x32.png',
+          href: 'https://govps.org/assets/image/favicon-32x32.png',
       }],
       ['link', {
           rel: 'manifest',
@@ -65,7 +65,7 @@ module.exports = {
       }],
       ['meta', {
           property: 'og:image',
-          content: 'https://govps.org/social-share.png',
+          content: 'https://govps.org/assets/image/social-share.png',
       }],
       ['meta', {
           property: 'twitter:card',
@@ -73,7 +73,7 @@ module.exports = {
       }],
       ['meta', {
           property: 'twitter:image',
-          content: 'https://govps.org/social-share.png',
+          content: 'https://govps.org/assets/image/social-share.png',
       }],
   ],
 
